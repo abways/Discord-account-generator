@@ -21,7 +21,7 @@ from python_anticaptcha import AnticaptchaClient, NoCaptchaTaskProxylessTask
 
 
 #Anti Captcha info
-api_key = 'key_here'
+api_key = '466763c726c3012bcd97c2bae8de4024'
 site_key = 'nubQ83kz2YYRrleJaYf_CYbvDZ6lXVl-NL_MWX1Uj9Y'
 
 #Email Gen
@@ -30,7 +30,7 @@ link = 'fyii.de/trashmail/' # when using quotes it will be a string see function
 email_address = '@fyii.de'
 email_link = link+rand+'.html'
 email = rand+email_address
-print(email+'\n'+email_link) # just make things neater :D
+print(email+'\n'+email_link) # just make thingster :D
 
 #Name Gen (Adds a few seconds onto the time it takes to create an account but who fucking cares)
 print ("Generating a name, should only take a sec!")
